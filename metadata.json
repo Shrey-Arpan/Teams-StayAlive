@@ -1,0 +1,6 @@
+
+{
+  "name": "Teams StayAlive Pro",
+  "description": "A professional Chrome extension utility designed to maintain an 'Active' status on Microsoft Teams web by spoofing visibility and activity signals.",
+  "requestFramePermissions": []
+}
