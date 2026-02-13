@@ -82,7 +82,6 @@ const App: React.FC = () => {
         <p className="m-0">Built for Microsoft Teams Web</p>
         <p className="mt-1 m-0">Ensures visibility & activity signals remain persistent.</p>
         <p className="mt-1 m-0">by Shrey Arpan</p>
-        <p className="mt-1 m-0">GitHub: https://github.com/apohphis</p>
       </footer>
     </div>
   );
