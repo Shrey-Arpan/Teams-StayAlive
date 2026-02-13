@@ -1,6 +1,7 @@
 # Teams StayAlive Pro
 
 Keep your Microsoft Teams status always active with automated visibility spoofing and activity signals.
+*Note: Teams should be open in chrome*
 
 ## Features
 - **Always Active**: Prevents Teams from going idle or away.
